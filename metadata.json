@@ -1,0 +1,6 @@
+{
+  "name": "WhatsPurge - WhatsApp Junk Cleaner & Storage Manager",
+  "description": "Smart WhatsApp cleaner to detect and remove hidden junk, temporary status cache, duplicate forwards, large videos, voice notes, and old backup databases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
